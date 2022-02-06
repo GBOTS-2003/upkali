@@ -1,5 +1,5 @@
-# upkali
-fix kali linux slow 
+# fix kali 
+
 
 ==================installtion====================
  
