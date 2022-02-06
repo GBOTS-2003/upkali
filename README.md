@@ -1,4 +1,4 @@
-# fix kali 
+# fix kali installation
 
 
 ==================installtion====================
