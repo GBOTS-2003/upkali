@@ -1,0 +1,20 @@
+#reboot tool
+
+clear
+
+echo '+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++MACHINE UPGRDADING++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++'
+
+sleep 5
+
+read -p '[after installation system will be roobt] press the Enter key to continue:'
+
+sudo apt-get update
+sudo apt-get upgrade 
+
+clear
+
+echo 'system rebooting started'
+
+sleep 3
+
+reboot
