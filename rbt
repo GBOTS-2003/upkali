@@ -6,7 +6,7 @@ echo '+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++M
 
 sleep 5
 
-read -p '[after installation system will be roobt] press the Enter key to continue:'
+read -p '[after installation system will be reboot] press the Enter key to continue:'
 
 sudo apt-get update
 sudo apt-get upgrade 
