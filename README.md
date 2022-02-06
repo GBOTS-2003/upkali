@@ -1,5 +1,7 @@
 # upkali
 fix kali linux slow 
- installtion
+
+==================installtion====================
  
- bash rbt
+                  cd upkali 
+                  bash rbt
